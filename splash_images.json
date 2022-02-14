@@ -1,0 +1,27 @@
+[
+    {
+      'url': 'assets/svgs/safe_payment_icon.svg',
+      'text': '100% Safe\nPayments',
+      'type': "svg"
+    },
+    {
+      'url': 'assets/svgs/quick_withdrawals.svg',
+      'text': 'Quick\nWithdrawals',
+      'type': "svg"
+    },
+    {
+      'url': 'assets/images/fifs_logo.png',
+      'text': 'Gold\nMember',
+      'type': "png"
+    },
+    {
+      'url': 'assets/svgs/quick_withdrawals.svg',
+      'text': 'Fair Play\nProtection',
+      'type': "svg"
+    },
+    {
+      'url': 'assets/svgs/quick_withdrawals.svg',
+      'text': '24*7\nService',
+      'type': "svg"
+    }
+  ]
